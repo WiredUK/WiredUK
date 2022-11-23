@@ -5,3 +5,10 @@ My name is David and I have many hats. They include software engineer, geek, ske
 I'd love to hear if you ever use any of my code, please drop me a message if you do!
 
 My pronouns are he/him.
+
+Find me on:
+
+* Website: https://david.glass/
+* Email: _Over on the left there somewhere..._
+* Twitter: <a rel="me" href="https://twitter.com/davideglass">@davideglass</a>
+* Mastodon: <a rel="me" href="https://mastodon.world/@davidglass">https://mastodon.world/@davidglass</a>
